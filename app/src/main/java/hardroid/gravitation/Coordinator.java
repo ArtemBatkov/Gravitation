@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 public class Coordinator extends AppCompatActivity {
-
+    //
     private SensorManager sManager;
     private TextView TestSensor;
 
